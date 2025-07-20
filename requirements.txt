@@ -1,1 +1,6 @@
-pip install pyttsx3 SpeechRecognition pyaudio wikipedia gTTS playsound
+pyttsx3
+SpeechRecognition
+pyaudio
+wikipedia
+gTTS
+playsound
